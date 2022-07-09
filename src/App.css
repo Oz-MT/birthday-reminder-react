@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-1: #f3b58e;
+  --color-2: #fff2eb;
+  --color-3: #edd3c2;
+  --color-4: #649fa1;
+  --color-5: #c2eced;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(185, 193, 185);
+}
